@@ -1,4 +1,6 @@
 flask
-joblib
 numpy
 pandas
+scikit-learn
+joblib
+gunicorn
